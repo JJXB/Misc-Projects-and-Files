@@ -1,9 +1,9 @@
 # Misc-Projects-and-Files
 Other Files i've done work on/with
 
-##Cheat Tables
+## Cheat Tables
 
-###Rainbow Six Vegas 2
+### Rainbow Six Vegas 2
 
 ***ANY GAMEPLAY CHEATS WITHIN CHEAT TABLE ARE NOT INTENDED FOR ONLINE USE OR TESTED ONLINE***
 
